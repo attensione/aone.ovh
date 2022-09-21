@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './assets/img/logo.svg';
 import './assets/css/App.css';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Testing Your Personal App2
+          Learn React and Testing Your Personal App
         </a>
       </header>
     </div>
